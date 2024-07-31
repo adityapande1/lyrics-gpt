@@ -7,7 +7,7 @@ We trained a model using $\textbf{Transformer}$ decoder architecture on hindi so
 - Capture intricate patterns and nuances in lyrics.
 - Generate diverse and creative content.
 __________________
-# Some Cool Examples
+# SOME COOL EXAMPLES
 ### Example 1
 ![Cool Demo](https://github.com/adityapande1/lyrics-gpt/blob/main/media/gifs/eg_1.gif)
 
@@ -15,7 +15,7 @@ __________________
 ____________________________________
 ![Cool Demo](https://github.com/adityapande1/lyrics-gpt/blob/main/media/gifs/eg_2.gif)
 
-## Usage
+## USAGE
 By leveraging a vast dataset of song lyrics, the model produces high-quality, original lyrics that can inspire and complement your musical compositions. It ensures:
 
 `train.ipynb` has all the step by step guide for training the model <br>
@@ -25,7 +25,7 @@ By leveraging a vast dataset of song lyrics, the model produces high-quality, or
 `models`contains our trained checkpoint
 
 
-# Model Features
+# MODEL FEATURES
 By leveraging a vast dataset of song lyrics, the model produces high-quality, original lyrics that can inspire and complement your musical compositions. It ensures:
 
 - Fluent and grammatically correct text.
@@ -33,7 +33,7 @@ By leveraging a vast dataset of song lyrics, the model produces high-quality, or
 - Creativity in lyricism.
 
 
-## Use Cases
+## USE CASES
 
 - **Songwriting**: Generate fresh ideas for lyrics, overcome writer's block, and experiment with new styles.
 - **Musical Projects**: Create original lyrics for albums, singles, and collaborations.
