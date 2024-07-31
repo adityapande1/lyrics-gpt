@@ -9,11 +9,11 @@ We trained a model using $\textbf{Transformer}$ decoder architecture on hindi so
 __________________
 # SOME COOL EXAMPLES
 ### Example 1
-![Cool Demo](https://github.com/adityapande1/lyrics-gpt/blob/main/media/gifs/eg_3.gif)
+![Cool Demo](https://github.com/adityapande1/lyrics-gpt/blob/main/media/gifs/eg_1.gif)
 
 ### Example 2
 ____________________________________
-![Cool Demo](https://github.com/adityapande1/lyrics-gpt/blob/main/media/gifs/eg_4.gif)
+![Cool Demo](https://github.com/adityapande1/lyrics-gpt/blob/main/media/gifs/eg_2.gif)
 
 ## USAGE
 By leveraging a vast dataset of song lyrics, the model produces high-quality, original lyrics that can inspire and complement your musical compositions. It ensures:
