@@ -15,7 +15,7 @@ media/gifs/one.gif
 
 
 # My Project
-
+<!-- 
 This project is awesome. Here is a cool GIF demonstrating its features:
 
-<img src="https://github.com/username/repo/blob/main/cool-demo.gif" alt="Cool Demo" width="500" height="300">
+<img src="https://github.com/username/repo/blob/main/cool-demo.gif" alt="Cool Demo" width="500" height="300"> -->
